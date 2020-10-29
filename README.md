@@ -22,4 +22,4 @@ No current known bugs
 incase you are not able to view certain applications or parts of the website feel free to submit an email to Charlesmugambi100@gmail.com or make a call to +2547075699
 
 ### License
-MIT# one-minute-pitch
+MIT
